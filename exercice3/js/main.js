@@ -1,0 +1,1 @@
+$("#text").css("width", "50px");
