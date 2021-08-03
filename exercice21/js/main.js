@@ -1,0 +1,1 @@
+$("#square").animate({height: "500px"});

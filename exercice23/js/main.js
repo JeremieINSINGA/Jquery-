@@ -1,0 +1,1 @@
+$("#square").animate({: "float-right"});

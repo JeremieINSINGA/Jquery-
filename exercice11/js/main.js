@@ -1,0 +1,1 @@
+$(".btn-success").css("background-color", "blue");
